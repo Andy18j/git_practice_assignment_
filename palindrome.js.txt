@@ -6,4 +6,6 @@ for (let i = str.length - 1; i >= 0.; i--) {
 if (rev === str) {
   console.log("Yes");
 }
-else { console.log("No"); }
+else {
+ console.log("No"); 
+}
